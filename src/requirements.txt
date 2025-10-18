@@ -1,0 +1,13 @@
+onnxruntime-gpu
+diffusers==0.35.1
+insightface==0.7.3
+pillow==11.3.0
+transformers==4.56.2
+safetensors==0.6.2
+accelerate==1.10.1
+einops==0.8.1
+huggingface-hub==0.35.3
+opencv-python
+onnxruntime-gpu
+omegaconf
+peft
