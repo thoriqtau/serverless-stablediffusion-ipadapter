@@ -62,5 +62,5 @@ the `output` in the JSON response.
 
 ## Community and Contributing
 
-Pull requests and issues on [GitHub](https://github.com/thoriqtau/serverless-stable_diffusion-ipadapter)
+Pull requests and issues on [GitHub](https://github.com/thoriqtau/serverless-stablediffusion-ipadapter)
 are welcome. Bug fixes and new features are encouraged.
