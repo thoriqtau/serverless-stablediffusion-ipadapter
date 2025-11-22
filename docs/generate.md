@@ -30,7 +30,6 @@
   "executionTime": 43997,
   "id": "sync-a3b54383-e671-4e24-a7bd-c5fec16fda3b",
   "output": {
-    "status": "ok",
     "image": "base64 encoded output image"
   },
   "status": "COMPLETED"
